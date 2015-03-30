@@ -1,0 +1,7 @@
+namespace angularjs_on_aspnet_mvc.Areas.HelpPage.ModelDescriptions
+{
+    public class CollectionModelDescription : ModelDescription
+    {
+        public ModelDescription ElementDescription { get; set; }
+    }
+}

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angularjs-on-aspnet-mvc", "angularjs-on-aspnet-mvc\angularjs-on-aspnet-mvc.csproj", "{524BD4F4-C29F-4F0B-A186-29FF492D8FAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "angularjs-on-aspnet-mvc.Tests", "C:\Users\DLuo01\Documents\Visual Studio 2013\Projects\angularjs-on-aspnet-mvc\angularjs-on-aspnet-mvc.Tests\angularjs-on-aspnet-mvc.Tests.csproj", "{4CE75719-C089-4E5D-8F36-86F6DC8D5E9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524BD4F4-C29F-4F0B-A186-29FF492D8FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{524BD4F4-C29F-4F0B-A186-29FF492D8FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{524BD4F4-C29F-4F0B-A186-29FF492D8FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{524BD4F4-C29F-4F0B-A186-29FF492D8FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CE75719-C089-4E5D-8F36-86F6DC8D5E9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE75719-C089-4E5D-8F36-86F6DC8D5E9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE75719-C089-4E5D-8F36-86F6DC8D5E9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE75719-C089-4E5D-8F36-86F6DC8D5E9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
